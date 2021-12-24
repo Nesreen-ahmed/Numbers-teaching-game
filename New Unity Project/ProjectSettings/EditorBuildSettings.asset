@@ -9,33 +9,33 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/number 1.unity
+    path: Assets/Scenes/numbers/Number 1.unity
     guid: dd17048adf930f64aa0abfa12dcf1952
   - enabled: 1
-    path: Assets/Scenes/number 2.unity
+    path: Assets/Scenes/numbers/Number 2.unity
     guid: 516713f2d5d769447801d0faf13d8103
   - enabled: 1
-    path: Assets/Scenes/number 3.unity
+    path: Assets/Scenes/numbers/Number 3.unity
     guid: f090e14f92bfd7f40918a20347ba59c7
   - enabled: 1
-    path: Assets/Scenes/number 4.unity
+    path: Assets/Scenes/numbers/Number 4.unity
     guid: 80f817ad78de8194bbcef8dc2772834d
   - enabled: 1
-    path: Assets/Scenes/number 5.unity
+    path: Assets/Scenes/numbers/Number 5.unity
     guid: 66bc81afecc30a344820688104ead13b
   - enabled: 1
-    path: Assets/Scenes/number 6.unity
+    path: Assets/Scenes/numbers/Number 6.unity
     guid: 97da57734807ff04885e78cea3496bba
   - enabled: 1
-    path: Assets/Scenes/number 7.unity
+    path: Assets/Scenes/numbers/Number 7.unity
     guid: 587fcf5ecfc2b9f418df67383e71b271
   - enabled: 1
-    path: Assets/Scenes/number 8.unity
+    path: Assets/Scenes/numbers/Number 8.unity
     guid: 24ebbbdb585dc0e41b35f1a314da51ac
   - enabled: 1
-    path: Assets/Scenes/number 9.unity
+    path: Assets/Scenes/numbers/Number 9.unity
     guid: 410b0e5ae0857ab4daaf6af705a1a1b1
   - enabled: 1
-    path: Assets/Scenes/number 10.unity
+    path: Assets/Scenes/numbers/Number 10.unity
     guid: 00fa9022002a99c4783ddd5fe82c6bb3
   m_configObjects: {}
