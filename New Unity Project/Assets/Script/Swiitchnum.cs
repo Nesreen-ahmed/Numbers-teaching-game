@@ -5,24 +5,23 @@ using UnityEngine.UI;
 
 public class Swiitchnum : MonoBehaviour
 {
-    public GameObject button1, button2;
+    public GameObject object1, object2;
     public GameObject[] background;
     int index;
 
     void Start()
     {
         index = 0;
-       // button1 = GameObject.Find("next");
-       // button2 = GameObject.Find("learnfinish");
+      
     }
 
 
     void Update()
     {
-        if (index >= 9)
+        if (index >= background.Length-1)
         {
     
-            index = 9;
+            index = background.Length-1;
         }
         if (index == 0)
         {
@@ -40,17 +39,17 @@ public class Swiitchnum : MonoBehaviour
             background[i].gameObject.SetActive(false);
             background[index].gameObject.SetActive(true);
         }
-        if (index >= 9)
+        if (index >= background.Length-1)
         {
-            button1.SetActive(false);
-            button2.SetActive(true);
+            object1.SetActive(false);
+            object2.SetActive(true);
         }
         Debug.Log(index);
     }
 
     public void Previous()
     {
-        //index -= 1;
+       
 
         for (int i = 0; i < background.Length; i++)
         {

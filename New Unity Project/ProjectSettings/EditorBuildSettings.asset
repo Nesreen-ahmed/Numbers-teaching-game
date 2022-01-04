@@ -12,33 +12,39 @@ EditorBuildSettings:
     path: Assets/Scenes/Numbers.unity
     guid: dd17048adf930f64aa0abfa12dcf1952
   - enabled: 1
-    path: Assets/Scenes/numbers/Number 2.unity
-    guid: 516713f2d5d769447801d0faf13d8103
+    path: Assets/Scenes/minus.unity
+    guid: a5831af23c080bc49b5b149be8a4a589
   - enabled: 1
-    path: Assets/Scenes/numbers/Number 3.unity
-    guid: f090e14f92bfd7f40918a20347ba59c7
-  - enabled: 1
-    path: Assets/Scenes/numbers/Number 4.unity
-    guid: 80f817ad78de8194bbcef8dc2772834d
-  - enabled: 1
-    path: Assets/Scenes/numbers/Number 5.unity
-    guid: 66bc81afecc30a344820688104ead13b
-  - enabled: 1
-    path: Assets/Scenes/numbers/Number 6.unity
-    guid: 97da57734807ff04885e78cea3496bba
-  - enabled: 1
-    path: Assets/Scenes/numbers/Number 7.unity
-    guid: 587fcf5ecfc2b9f418df67383e71b271
-  - enabled: 1
-    path: Assets/Scenes/numbers/Number 8.unity
-    guid: 24ebbbdb585dc0e41b35f1a314da51ac
-  - enabled: 1
-    path: Assets/Scenes/numbers/Number 9.unity
-    guid: 410b0e5ae0857ab4daaf6af705a1a1b1
-  - enabled: 1
-    path: Assets/Scenes/numbers/Number 10.unity
-    guid: 00fa9022002a99c4783ddd5fe82c6bb3
+    path: Assets/Scenes/plus.unity
+    guid: b8393d96c4205594794e0c03a7ce2ade
   - enabled: 1
     path: Assets/Scenes/number exam.unity
     guid: 3906a0004a7e1364f88346df8b804ab7
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
